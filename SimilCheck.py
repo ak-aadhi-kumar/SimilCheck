@@ -1,3 +1,4 @@
+# Copyright (C) 2024 ak-aadhi-kumar
 import subprocess
 from difflib import SequenceMatcher
 
